@@ -1,0 +1,6 @@
+.env
+*.log
+portfolio.db
+__pycache__/
+saved_config.json
+*.pyc
